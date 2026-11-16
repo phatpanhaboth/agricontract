@@ -1,0 +1,36 @@
+{
+  "ref": "C-2027-0001",
+  "processor": {
+    "name": "ក្រុមហ៊ុន សម្បកមាស",
+    "registration_no": "DEMO-P001"
+  },
+  "coop": {
+    "name": "សហគមន៍កសិកម្ម សង្ឃឹមថ្មី",
+    "registration_no": "DEMO-C001"
+  },
+  "season": "កុម្ភៈ–ឧសភា ២០២៧",
+  "varieties": [
+    "M23",
+    "H09"
+  ],
+  "share_pct": 60,
+  "estimate_t": 3.5,
+  "moisture_max_pct": 10,
+  "outturn_min_pct": 28,
+  "foreign_matter_max_pct": 1,
+  "floor_riel_per_kg": 5000,
+  "fail_discount_riel_per_kg": 300,
+  "payment_days": 3,
+  "mediator": "មេឃុំ",
+  "signatures": {
+    "processor": {
+      "by": "អ្នកគ្រប់គ្រង",
+      "at": "2026-12-01T03:00:00+00:00"
+    },
+    "coop": {
+      "by": "តំណាងសហគមន៍",
+      "at": "2026-12-02T04:30:00+00:00"
+    },
+    "code": "3F9A-21C0"
+  }
+}
